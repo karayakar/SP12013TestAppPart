@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="610d7bcf-5359-4005-b01f-5f3e11625e05" 
+        solutionId="610d7bcf-5359-4005-b01f-5f3e11625e05" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="AppPartTest"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="fef5ded3-0783-410a-bc19-9260f68718a5" />
+  </features>
+</package>
